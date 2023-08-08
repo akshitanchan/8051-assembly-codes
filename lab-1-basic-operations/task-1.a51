@@ -1,0 +1,5 @@
+ORG 0005 
+MOV A, #55H 
+MOV R0, #0D3H 
+MOV A, R0 
+END
